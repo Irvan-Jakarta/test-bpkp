@@ -29,7 +29,7 @@ public class GreetingController {
     	 data.add("Indonesia");
     	 data.add("Malaysia");
     	 data.add("Brunei");
-    	 data.add("Timor Leste");
+    	 data.add("Timor Leste..");
     	 
     	 return data.stream()
     			 .filter(line ->
